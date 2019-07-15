@@ -1,1 +1,5 @@
-# example-repo \nThis is a new first  file on git \n
+# example-repo 
+
+This is a new first  file on git
+
+Second line
